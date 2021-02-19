@@ -1,0 +1,13 @@
+.root-header-background {
+  background-image: url("../../resources/images/root-header-image.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 326px;
+  width: 100%;
+  padding: 40px;
+}
+
+.root-header-text {
+  margin: 15px;
+}

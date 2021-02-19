@@ -7,7 +7,7 @@ import * as serviceWorker from "./serviceWorker";
 
 WebFont.load({
   google: {
-    families: ["sans-serif", "Libre Franklin"],
+    families: ["sans-serif", "Libre Franklin", "Roboto"],
   },
 });
 

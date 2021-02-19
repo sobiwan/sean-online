@@ -1,10 +1,10 @@
 import React from "react";
 import { Route, Switch } from "react-router-dom";
-import Demo from "../components/screens/Demo";
+import Root from "../screens/Root";
 
 const Navigation = () => (
   <Switch>
-    <Route exact path="/" component={Demo} />
+    <Route exact path="/" component={Root} />
   </Switch>
 );
 

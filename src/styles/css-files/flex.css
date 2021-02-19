@@ -1,21 +1,25 @@
-.flex-row{
-    display: flex;
-    flex-direction: row;
+.flex-row {
+  display: flex;
+  flex-direction: row;
 }
-.flex-column{
-    display: flex;
-    flex-direction: column;
+.flex-column {
+  display: flex;
+  flex-direction: column;
 }
-.flex-center{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.flex-align{
-    display: flex;
-    align-items: center;
+.flex-align {
+  display: flex;
+  align-items: center;
 }
-.flex-justify{
-    display: flex;
-    justify-content: center;
+.flex-justify {
+  display: flex;
+  justify-content: center;
+}
+
+.flex-grow-height {
+  height: 100%;
 }
