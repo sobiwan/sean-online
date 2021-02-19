@@ -1,6 +1,7 @@
 import React from "react";
 import RootHeader from "../components/root-header";
 import AboutMe from "../components/about-me";
+import Accomplishments from "../components/accomplishments";
 import "../styles";
 
 function RootScreen() {
@@ -8,6 +9,7 @@ function RootScreen() {
     <>
       <RootHeader />
       <AboutMe />
+      <Accomplishments />
     </>
   );
 }

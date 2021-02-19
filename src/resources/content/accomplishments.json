@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Mavely",
+    "image": "https://res.cloudinary.com/sean-ob/image/upload/v1613706191/sean-online/Mavely-Blue-M_bvrm5j.png",
+    "description": "Praesent consequat varius arcu vestibulum aliquet. Pellentesque metus augue, eleifend a condimentum ac, egestas in purus. Nullam cursus nec ex at imperdiet. Mauris interdum sit amet urna sed accumsan. Suspendisse nisl magna, tristique id condimentum et, eleifend lacinia sapien. Phasellus mattis vitae augue eget tempus.",
+    "link": "https://joinmavely.com"
+  },
+  {
+    "name": "Swyft",
+    "image": "https://res.cloudinary.com/sean-ob/image/upload/co_rgb:ffffff,e_grayscale,o_100/v1613706247/sean-online/s3fc8sadvzpc0okz4ce4_eu93da.png",
+    "description": "Praesent consequat varius arcu vestibulum aliquet. Pellentesque metus augue, eleifend a condimentum ac, egestas in purus. Nullam cursus nec ex at imperdiet. Mauris interdum sit amet urna sed accumsan. Suspendisse nisl magna, tristique id condimentum et, eleifend lacinia sapien. Phasellus mattis vitae augue eget tempus.",
+    "link": "https://www.crunchbase.com/organization/textpride#section-overview"
+  },
+  {
+    "name": "Irish Beef",
+    "image": "https://res.cloudinary.com/sean-ob/image/upload/v1613706285/sean-online/irishbeef_a8fer1.png",
+    "description": "Praesent consequat varius arcu vestibulum aliquet. Pellentesque metus augue, eleifend a condimentum ac, egestas in purus. Nullam cursus nec ex at imperdiet. Mauris interdum sit amet urna sed accumsan. Suspendisse nisl magna, tristique id condimentum et, eleifend lacinia sapien. Phasellus mattis vitae augue eget tempus.",
+    "link": "https://www.franchising.com/articles/irish_beef_takes_over_all_tucson_arbys_locations.html"
+  },
+  {
+    "name": "Forbes 30 under 30",
+    "image": "https://res.cloudinary.com/sean-ob/image/upload/v1613707310/sean-online/NicePng_forbes-png_8289722_dmtdig.png",
+    "description": "Praesent consequat varius arcu vestibulum aliquet. Pellentesque metus augue, eleifend a condimentum ac, egestas in purus. Nullam cursus nec ex at imperdiet. Mauris interdum sit amet urna sed accumsan. Suspendisse nisl magna, tristique id condimentum et, eleifend lacinia sapien. Phasellus mattis vitae augue eget tempus.",
+    "link": "https://www.forbes.com/profile/swyft-media/?sh=3dfd7d4a6f38"
+  },
+  {
+    "name": "MLTF",
+    "image": "https://res.cloudinary.com/sean-ob/image/upload/v1613706470/sean-online/mltf-logo-1_mho7ex.png",
+    "description": "Praesent consequat varius arcu vestibulum aliquet. Pellentesque metus augue, eleifend a condimentum ac, egestas in purus. Nullam cursus nec ex at imperdiet. Mauris interdum sit amet urna sed accumsan. Suspendisse nisl magna, tristique id condimentum et, eleifend lacinia sapien. Phasellus mattis vitae augue eget tempus.",
+    "link": "https://www.molsoncoorsblog.com/news/how-two-friends-used-emojis-win-250k"
+  },
+  {
+    "name": "Eagle Scout",
+    "image": "https://res.cloudinary.com/sean-ob/image/upload/v1613706514/sean-online/image_9_axo8ur.png",
+    "description": "Praesent consequat varius arcu vestibulum aliquet. Pellentesque metus augue, eleifend a condimentum ac, egestas in purus. Nullam cursus nec ex at imperdiet. Mauris interdum sit amet urna sed accumsan. Suspendisse nisl magna, tristique id condimentum et, eleifend lacinia sapien. Phasellus mattis vitae augue eget tempus.",
+    "link": "https://troop719.org/"
+  }
+]
