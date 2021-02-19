@@ -1,15 +1,22 @@
+@import "../constants.css";
+
 body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: #e7e7e7;
+  background: var(--background_color);
 }
+
+/* div {
+  text-align: center;
+} */
 
 .max-width-outer {
   display: flex;
   flex-direction: column;
   align-items: center;
   width: 100%;
+  max-width: 100vw;
 }
 
 .max-width-inner {

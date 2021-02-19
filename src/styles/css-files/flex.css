@@ -20,6 +20,11 @@
   justify-content: center;
 }
 
+.flex-space-even {
+  display: flex;
+  justify-content: space-evenly;
+}
+
 .flex-grow-height {
   height: 100%;
 }

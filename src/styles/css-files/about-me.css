@@ -1,0 +1,26 @@
+@import "../constants.css";
+
+.avatar-buffer {
+  margin-top: 100px;
+}
+
+.am-main-paragraph {
+  max-width: 530px;
+  color: var(--paragraph_grey);
+  font-size: 22px;
+  line-height: 29px;
+  margin: 30px 0px;
+  padding: 0px 30px;
+}
+
+.am-main-paragraph a {
+  color: var(--accent_blue);
+}
+
+.am-icons-container {
+  width: 530px;
+}
+
+.am-gutter {
+  margin-bottom: 50px;
+}
